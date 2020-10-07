@@ -8,4 +8,4 @@ pyOpenSSL==16.2.0
 #ruamel.yaml
 six==1.10.0
 shade==1.24.0
-passlib==1.6.5
+passlib==1.7.3
